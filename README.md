@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Niraj Patel</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🌱 I’m currently learning **Data Science**
 
-- 🌱 I’m currently learning **DevOps**
+- 💬 Ask me about **Python , APIs**
 
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **pniraj657@gmail.com**
+- 📫 Reach me at **pniraj657@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
