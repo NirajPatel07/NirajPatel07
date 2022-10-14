@@ -5,7 +5,7 @@
 
 - 💬 Ask me about anything related to **Python**, **APIs** and related technologies
 
-- 📫 Reach me at **pniraj657@gmail.com**
+- 📫 How to reach me: **pniraj657@gmail.com**
 
 
 #### My Skill Set 
@@ -55,6 +55,9 @@
 
 <br/>  
 
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
