@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Patel</h1>
-<h3 align="center">A Passionate Python Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 - 🔭  I’m currently working on something cool 😉
 
