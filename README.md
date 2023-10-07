@@ -9,7 +9,6 @@
 
 - 📫 How to reach me: **pniraj657@gmail.com**
 
-
 #### My Skill Set 
 <table><tr><td valign="top" width="33%">
 
@@ -58,7 +57,7 @@
 <br/>  
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Do you like my open-source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
 <h3 align="center">Connect with me</h3>
@@ -83,7 +82,10 @@
 </a>
 <a href="https://stackoverflow.com/users/#" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href="https://stackoverflow.com/users/#" target="_blank">
+<img src=https://visitor-badge.laobi.icu/badge?page_id=nirajpatel07.visitor-badge&style=flat-square&color=0088cc alt=visitor style="margin-bottom: 5px; height: 28px;" />
+</a> 
 </div>  
   
 
